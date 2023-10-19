@@ -1,0 +1,4 @@
+flask==2.1.2
+line-bot-sdk==2.4.2
+sqlalchemy==1.4.47
+PyMySQL==1.0.3
